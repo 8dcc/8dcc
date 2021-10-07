@@ -1,6 +1,7 @@
 ## Welcome
 <p>
   <a target="_blank" href="https://github.com/r4v10l1">
+    <img align="right" src="https://www.codewars.com/users/r4v10l1/badges/small" alt="Codewars stats"/>
     <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fr4v10l1%2Fpython_dehasher&count_bg=%23282828&title_bg=%23555555&icon=clyp.svg&icon_color=%23282828&title=Hits&edge_flat=true" alt="Profile hits"/>
     <img align="right" src="https://komarev.com/ghpvc/?username=r4v10l1&color=282828&label=Profile+visits&style=flat-square" alt="Profile views" />
   </a>
