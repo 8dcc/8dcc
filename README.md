@@ -8,7 +8,8 @@
 </p>
 
 ### I'm a guy who does things.
-**My gists:** [Click me](https://gist.github.com/r4v10l1)
+**My gists:** [Click me](https://gist.github.com/r4v10l1)<br>
+**My codewars profile:** [Click me](https://www.codewars.com/users/r4v10l1)
 
 #
 <br>
