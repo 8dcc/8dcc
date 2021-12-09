@@ -32,7 +32,7 @@
 
 #
 
-<img align="left" alt="Linux" height="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
-<img align="left" alt="Spining with no reason" height="70px" src="https://steamuserimages-a.akamaihd.net/ugc/959726546608325738/6E0EB84D32090719B68289BB3F6A3A977F039D6C/">
+<img align="left" alt="Linux" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
+<img align="left" alt="Spining with no reason" height="75px" src="https://steamuserimages-a.akamaihd.net/ugc/959726546608325738/6E0EB84D32090719B68289BB3F6A3A977F039D6C/">
 <img align="left" alt="Arduino" height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png">
-<img align="left" alt="Thinkpads" height="50px" src="https://www.pngkey.com/png/full/191-1912914_lenovo-logo-lenovo-thinkpad.png">
+<img align="left" alt="Thinkpads" height="55px" src="https://www.pngkey.com/png/full/191-1912914_lenovo-logo-lenovo-thinkpad.png">
