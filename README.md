@@ -27,7 +27,7 @@
 <img align="left" alt="c++" height="60px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
 <img align="left" alt="Haskell" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1280px-Haskell-Logo.svg.png">
 <img align="left" alt="Rust" height="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png">
-<img align="left" alt="AutoHotkey" height="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_autohotkey_icon_130735.png">
+<img align="left" alt="AutoHotkey" height="65px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_autohotkey_icon_130735.png">
 <br><br>
 
 #
