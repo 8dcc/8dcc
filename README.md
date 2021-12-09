@@ -20,19 +20,24 @@
    </a>
 </p>
 
-## Languages / Shit I like
-<img align="left" alt="Python" height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-<img align="left" alt="C" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
-<img align="left" alt="Bash" height="60px" src="https://bashlogo.com/img/symbol/png/full_colored_light.png">
-<img align="left" alt="c++" height="60px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-<img align="left" alt="Haskell" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1280px-Haskell-Logo.svg.png">
-<img align="left" alt="Rust" height="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png">
-<img align="left" alt="AutoHotkey" height="65px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_autohotkey_icon_130735.png">
-<br><br>
-
-#
-
-<img align="left" alt="Linux" height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
-<img align="left" alt="Spining with no reason" height="75px" src="https://steamuserimages-a.akamaihd.net/ugc/959726546608325738/6E0EB84D32090719B68289BB3F6A3A977F039D6C/">
-<img align="left" alt="Arduino" height="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png">
-<img align="left" alt="Thinkpads" height="55px" src="https://www.pngkey.com/png/full/191-1912914_lenovo-logo-lenovo-thinkpad.png">
+## Shit I like
+<a href="https://github.com/r4v10l1?tab=repositories">
+    <img align="left" alt="Python" height="45px" src="https://simpleicons.org/icons/python.svg">
+    <img align="left" alt="C" height="45px" src="https://simpleicons.org/icons/c.svg">
+    <img align="left" alt="Bash" height="45px" src="https://simpleicons.org/icons/gnubash.svg">
+    <img align="left" alt="c++" height="45px" src="https://simpleicons.org/icons/cplusplus.svg">
+    <img align="left" alt="Haskell" height="45px" src="https://simpleicons.org/icons/haskell.svg">
+    <img align="left" alt="Rust" height="45px" src="https://simpleicons.org/icons/rust.svg">
+    <img align="left" alt="AutoHotkey" height="45px" src="https://simpleicons.org/icons/autohotkey.svg">
+</a>
+<br><br><br>
+<a href="https://github.com/r4v10l1?tab=stars">
+    <img align="left" alt="Linux" height="45px" src="https://simpleicons.org/icons/linux.svg">
+    <img align="left" alt="Arch Linux" height="45px" src="https://simpleicons.org/icons/archlinux.svg">
+    <img align="left" alt="Gentoo" height="45px" src="https://simpleicons.org/icons/gentoo.svg">
+    <img align="left" alt="Suckless software" height="45px" src="https://simpleicons.org/icons/suckless.svg">
+    <img align="left" alt="dwm" height="55px" src="https://simpleicons.org/icons/dwm.svg">
+    <img align="left" alt="Arduino" height="55px" src="https://simpleicons.org/icons/arduino.svg">
+    <img align="left" alt="Thinkpads" height="40px" src="https://www.pngkey.com/png/full/191-1912914_lenovo-logo-lenovo-thinkpad.png">
+    <!-- <img align="left" alt="Spining with no reason" height="75px" src="https://steamuserimages-a.akamaihd.net/ugc/959726546608325738/6E0EB84D32090719B68289BB3F6A3A977F039D6C/"> -->
+</a>
