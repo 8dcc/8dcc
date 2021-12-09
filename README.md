@@ -20,7 +20,8 @@
    </a>
 </p>
 
-## Shit I like
+#
+### [Stuff I like](https://u.teknik.io/LEMYq.png)
 <a href="https://github.com/r4v10l1?tab=repositories">
     <img align="left" alt="Python" height="45px" src="https://simpleicons.org/icons/python.svg">
     <img align="left" alt="C" height="45px" src="https://simpleicons.org/icons/c.svg">
