@@ -21,6 +21,7 @@
    </a>
 </p>
 
+<!--- Who gives a fuck tbh
 #
 ### [Stuff I like](https://u.teknik.io/LEMYq.png)
 <a href="https://github.com/r4v10l1?tab=repositories">
@@ -41,5 +42,5 @@
     <img align="left" alt="dwm" height="55px" src="https://simpleicons.org/icons/dwm.svg">
     <img align="left" alt="Arduino" height="55px" src="https://simpleicons.org/icons/arduino.svg">
     <img align="left" alt="Thinkpads" height="40px" src="https://www.pngkey.com/png/full/191-1912914_lenovo-logo-lenovo-thinkpad.png">
-    <!-- <img align="left" alt="Spining with no reason" height="75px" src="https://steamuserimages-a.akamaihd.net/ugc/959726546608325738/6E0EB84D32090719B68289BB3F6A3A977F039D6C/"> -->
 </a>
+--->
