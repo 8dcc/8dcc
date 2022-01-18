@@ -15,9 +15,9 @@
 <br>
 <p align="center">
   <a target="_blank" href="https://github.com/r4v10l1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r4v10l1&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" alt="My stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4v10l1&layout=compact&theme=gruvbox" alt="My top languages"/><br><br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=r4v10l1&theme=xcode&bg_color=282828&line=524629&point=d8a52d" alt="My activity graph"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r4v10l1&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="My stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4v10l1&layout=compact&theme=react&langs_count=6" alt="My top languages"/><br><br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=r4v10l1&theme=github&bg_color=20232a&line=2d4854&point=56bcd9&color=ffffff" alt="My activity graph"/>
    </a>
 </p>
 
