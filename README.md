@@ -13,34 +13,11 @@
 
 #
 <br>
-<p align="center">
+<div align="center">
   <a target="_blank" href="https://github.com/r4v10l1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r4v10l1&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="My stats"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r4v10l1&show_icons=true&include_all_commits=true&count_private=true&theme=react" alt="My stats"/> -->
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=r4v10l1&theme=react" alt="My current streak"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4v10l1&layout=compact&theme=react&langs_count=6" alt="My top languages"/><br><br>
     <img src="https://activity-graph.herokuapp.com/graph?username=r4v10l1&theme=github&bg_color=20232a&line=2d4854&point=56bcd9&color=ffffff" alt="My activity graph"/>
    </a>
-</p>
-
-<!--- Who gives a fuck tbh
-#
-### [Stuff I like](https://u.teknik.io/LEMYq.png)
-<a href="https://github.com/r4v10l1?tab=repositories">
-    <img align="left" alt="Python" height="45px" src="https://simpleicons.org/icons/python.svg">
-    <img align="left" alt="C" height="45px" src="https://simpleicons.org/icons/c.svg">
-    <img align="left" alt="Bash" height="45px" src="https://simpleicons.org/icons/gnubash.svg">
-    <img align="left" alt="c++" height="45px" src="https://simpleicons.org/icons/cplusplus.svg">
-    <img align="left" alt="Haskell" height="45px" src="https://simpleicons.org/icons/haskell.svg">
-    <img align="left" alt="Rust" height="45px" src="https://simpleicons.org/icons/rust.svg">
-    <img align="left" alt="AutoHotkey" height="45px" src="https://simpleicons.org/icons/autohotkey.svg">
-</a>
-<br><br><br>
-<a href="https://github.com/r4v10l1?tab=stars">
-    <img align="left" alt="Linux" height="45px" src="https://simpleicons.org/icons/linux.svg">
-    <img align="left" alt="Arch Linux" height="45px" src="https://simpleicons.org/icons/archlinux.svg">
-    <img align="left" alt="Gentoo" height="45px" src="https://simpleicons.org/icons/gentoo.svg">
-    <img align="left" alt="Suckless software" height="45px" src="https://simpleicons.org/icons/suckless.svg">
-    <img align="left" alt="dwm" height="55px" src="https://simpleicons.org/icons/dwm.svg">
-    <img align="left" alt="Arduino" height="55px" src="https://simpleicons.org/icons/arduino.svg">
-    <img align="left" alt="Thinkpads" height="40px" src="https://www.pngkey.com/png/full/191-1912914_lenovo-logo-lenovo-thinkpad.png">
-</a>
---->
+</div>
