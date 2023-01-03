@@ -14,7 +14,7 @@
 
 #
 <details>
-    <summary><h4>My github stats</h4></summary>
+    <summary><h4>My github stats (Without organizations)</h4></summary>
         <br>
         <div align="center">
             <a target="_blank" href="https://github.com/r4v10l1">
