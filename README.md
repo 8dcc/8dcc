@@ -1,7 +1,7 @@
 ## Welcome
 <p>
   <a target="_blank" href="https://www.codewars.com/users/8dcc">
-    <img align="right" src="https://www.codewars.com/users/8dcc/badges/small" alt="Codewars stats">
+    <img align="right" src="https://www.codewars.com/users/r4v10l1/badges/small" alt="Codewars stats">
   </a>
   <a target="_blank" href="https://github.com/8dcc">
     <img align="right" src="https://komarev.com/ghpvc/?username=8dcc&color=282828&label=Profile+visits&style=flat-square" alt="Profile views">
@@ -10,7 +10,7 @@
 
 ### I make stuff.
 **My gists:** [Click me](https://gist.github.com/8dcc)  
-**My codewars profile:** [Click me](https://www.codewars.com/users/8dcc)
+**My codewars profile:** [Click me](https://www.codewars.com/users/r4v10l1)
 
 #
 <details>
