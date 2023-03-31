@@ -1,13 +1,13 @@
 ## Welcome
 <p>
   <a target="_blank" href="https://www.codewars.com/users/8dcc">
-    <img align="right" src="https://www.codewars.com/users/r4v10l1/badges/small" alt="Codewars stats">
+    <img align="right" src="https://www.codewars.com/users/8dcc/badges/small" alt="Codewars stats">
   </a>
 </p>
 
 ### I make stuff.
 **My gists:** [Click me](https://gist.github.com/8dcc)  
-**My codewars profile:** [Click me](https://www.codewars.com/users/r4v10l1)
+**My codewars profile:** [Click me](https://www.codewars.com/users/8dcc)
 
 #
 <details>
