@@ -7,7 +7,8 @@
 
 ### I make stuff.
 **My gists:** [Click me](https://gist.github.com/8dcc)  
-**My codewars profile:** [Click me](https://www.codewars.com/users/8dcc)
+**My codewars profile:** [Click me](https://www.codewars.com/users/8dcc)  
+**My best projects:** [Click me](https://github.com/stars/8dcc/lists/my-dope-shit)
 
 #
 <details>
