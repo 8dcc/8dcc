@@ -1,16 +1,16 @@
 ## Hello
+
 <p>
   <a target="_blank" href="https://www.codewars.com/users/8dcc">
     <img align="right" src="https://www.codewars.com/users/8dcc/badges/small" alt="Codewars stats">
   </a>
 </p>
 
-### I make stuff.
+**My blog:** [Click me](https://8dcc.github.io)  
 **My gists:** [Click me](https://gist.github.com/8dcc)  
 **My codewars profile:** [Click me](https://www.codewars.com/users/8dcc)  
 **My best projects:** [Click me](https://github.com/stars/8dcc/lists/my-dope-shit)
 
-#
 <details>
     <summary><strong>My github stats (Without organizations)</strong></summary>
         <br>
