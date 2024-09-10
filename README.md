@@ -9,7 +9,7 @@
 **My blog:** [Click me](https://8dcc.github.io)  
 **My gists:** [Click me](https://gist.github.com/8dcc)  
 **My codewars profile:** [Click me](https://www.codewars.com/users/8dcc)  
-**My best projects:** [Click me](https://github.com/stars/8dcc/lists/my-dope-shit)
+**My best projects:** [Click me](https://github.com/stars/8dcc/lists/my-dope-stuff)
 
 <details>
     <summary><strong>My github stats (excluding organizations)</strong></summary>
